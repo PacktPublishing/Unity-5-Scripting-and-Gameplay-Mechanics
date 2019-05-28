@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{192D6DEE-2190-E6AD-7438-FBABB472FECD}") = "PacktCoinCollect", "Assembly-CSharp-firstpass.csproj", "{F3982EC8-DD84-8E8E-99D0-3BA967DE9FCD}"
+EndProject
+Project("{192D6DEE-2190-E6AD-7438-FBABB472FECD}") = "PacktCoinCollect", "Assembly-CSharp.csproj", "{D2D4B450-610E-FF01-C5A4-43EF44CB24A2}"
+EndProject
+Project("{192D6DEE-2190-E6AD-7438-FBABB472FECD}") = "PacktCoinCollect", "Assembly-CSharp-Editor.csproj", "{DC81EECC-EBD3-375B-1FB2-C9BC62BA473E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3982EC8-DD84-8E8E-99D0-3BA967DE9FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3982EC8-DD84-8E8E-99D0-3BA967DE9FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3982EC8-DD84-8E8E-99D0-3BA967DE9FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3982EC8-DD84-8E8E-99D0-3BA967DE9FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D4B450-610E-FF01-C5A4-43EF44CB24A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D4B450-610E-FF01-C5A4-43EF44CB24A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D4B450-610E-FF01-C5A4-43EF44CB24A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D4B450-610E-FF01-C5A4-43EF44CB24A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC81EECC-EBD3-375B-1FB2-C9BC62BA473E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC81EECC-EBD3-375B-1FB2-C9BC62BA473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC81EECC-EBD3-375B-1FB2-C9BC62BA473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC81EECC-EBD3-375B-1FB2-C9BC62BA473E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
